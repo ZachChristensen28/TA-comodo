@@ -17,7 +17,7 @@ Download this app from splunkbase or [Github](https://github.com/ZachChristensen
 
 ### Where to Install
 Splunk platform Instance type | Supported | Required | Actions required/ Comments
----- | ---- | ----
+----------------------------- | --------- | -------- | --------------------------
 Search Heads | Yes | Yes | Install this add-on to all search heads
 Indexers | Yes | Conditional | Not required if you use heavy forwarders to collect data.
 Heavy Forwarders | Yes | Conditional | Not required. This add-on must be installed on either the HF or Indexers.
